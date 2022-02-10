@@ -12,7 +12,6 @@ Scripts
 
 
 I put the photo of my girlfriend and me into the task XD
-![image](https://github.com/guagua0201/XCampJudge/blob/master/image/judge5.png)
 
 The integral using situation
 ![image](https://github.com/guagua0201/XCampJudge/blob/master/image/judge6.png)
